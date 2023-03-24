@@ -1,8 +1,8 @@
-package ArrayLists;
+package arrayLists;
 
 import java.util.Scanner;
 
-public class tribonachi {
+public class Tribonachi {
     static Scanner sc=new Scanner(System.in);
     public static void main(String[] args) {
         //Tribonacci dizisi, genel olarak fibonacci dizisinin üçlü hali olarak düşünülebilir.

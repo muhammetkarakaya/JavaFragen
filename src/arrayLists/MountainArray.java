@@ -1,8 +1,8 @@
-package ArrayLists;
+package arrayLists;
 
 import java.util.Arrays;
 
-public class mountainArray {
+public class MountainArray {
     public static void main(String[] args) {
         int[] arr = {2, 4, 6, 7, 5, 8, 3};
         mountainControl(arr);

@@ -1,8 +1,8 @@
-package ArrayLists;
+package arrayLists;
 
 import java.util.Arrays;
 
-public class ardisikArtan {
+public class ArdisikArtan {
 
         public static void main(String[] args) {
             //Array'in ardısık artan toplamını hesaplayın.

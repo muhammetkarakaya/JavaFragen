@@ -1,6 +1,6 @@
-package ArrayLists;
+package arrayLists;
 
-public class canBalanceArray {
+public class CanBalanceArray {
     public static void main(String[] args) {
         //bos olamayan bir array'in dengeli olup olmadıgını kontrol edip,true yada false döndürün
         int[]dizi={1,1,1,2,1};

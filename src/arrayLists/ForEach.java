@@ -1,8 +1,8 @@
-package ArrayLists;
+package arrayLists;
 
 import java.util.ArrayList;
 
-public class forEach {
+public class ForEach {
     public static void main(String[] args) {
         //Array'in icerdigi kelimeleri inceleyin.uzunlugu cift olanların ilk yarısını,
         //tek olanların son yarısını yazdırın

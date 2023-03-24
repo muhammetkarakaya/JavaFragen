@@ -1,8 +1,8 @@
-package ArrayLists;
+package arrayLists;
 
 import java.util.Arrays;
 
-public class arrayOlustur {
+public class ArrayOlustur {
     public static void main(String[] args) {
         //herhangi bir sayiya kadar Array dizilim methodu olusturup yazdırın.
         //{1,1,2,1,2,3,1,2,3,4}

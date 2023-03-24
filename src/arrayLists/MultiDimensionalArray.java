@@ -1,6 +1,6 @@
-package ArrayLists;
+package arrayLists;
 
-public class multiDimensionalArray {
+public class MultiDimensionalArray {
     public static void main(String[] args) {
         //  Verilen 2 katli bir array’de her bir inner array’in  ilk ve son elementlerinin
         // toplaminini yazdiran bir method olusturun
