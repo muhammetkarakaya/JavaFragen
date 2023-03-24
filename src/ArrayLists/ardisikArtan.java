@@ -3,7 +3,7 @@ package ArrayLists;
 import java.util.Arrays;
 
 public class ardisikArtan {
-    public class ArdısıkArtan {
+
         public static void main(String[] args) {
             //Array'in ardısık artan toplamını hesaplayın.
             int[] sayilar = {9, 5, 8, 2, 6, 9, 2, 3, 8, 7};
@@ -24,4 +24,3 @@ public class ardisikArtan {
             System.out.println("Ardisik Toplam : "+ Arrays.toString(arrToplam));
         }
     }
-}
